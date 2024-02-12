@@ -1,0 +1,29 @@
+-This is not to be confused with distributed version control system (DVCS), because these are 2 separate things
+
+-This is about "Version Control Services" (VCS)
+
+
+# VCS
+
+-Version Control Services are fully managed cloud services that hosts your Version Controlled Repositories
+-These services often have additional functionality going beyond just being a remote host for your repos
+-We often calle these VCS as "git providers"
+
+
+# VCS Examples
+
+### GitHub
+-Owned by Microsoft, most popular VCS offering due to ease of use and being around the longest
+-GitHub is primarily where open-source projects are hosted and offer rich functionality such as "issue tracking", "automation pipelines", and other features
+
+### GitLab
+-Competitor to github and at the time had "unique features" like pipelines and improved security measures, no longer the case as github now has all these features
+
+### Bitbucket
+-Onwned by Atlassian (the same company that makes Jira)
+-Originally hosted "mercurial", and then later adding GIT
+-Tight integration witn Atlassian's industry standard Agile Project Management software JIRA
+-Larger organizations commonly use Bitbucket because of JIRA adoption
+
+### SourceForge
+-One of the oldest places to host your source code

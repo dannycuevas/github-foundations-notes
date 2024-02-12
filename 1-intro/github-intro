@@ -1,0 +1,44 @@
+-GIT is a distributed version control system (DVCS)
+it was created by Linus Torvald (creator of the Linux kernel)
+
+-Each change of your code (git commit) can be captured and tracked throughout the history of your project (git tree, or, git log --oneline)
+
+
+# Common GIT terms
+
+-commit:
+represents a change of data in the local git repository
+
+-tree:
+represent the entire history of a repo
+
+-remote:
+a version of your project hosted elsewhere, used for exchanging commits
+
+-branches:
+divergents paths from your main branch of development, allowing for isolated changes (branches with their own history and commits)
+
+-clone:
+creates a complete local copy of a repository, including its history
+
+-checkout:
+the ability to switch between different branches or commits in your repo
+
+-pull:
+downloads changes from a remote repo and merges them into your branch
+
+-push:
+uploads your local repo changes to a remote repo
+
+-fetch:
+downloads data from a remote repo without integrating it into your work
+
+-reset:
+undoes local changes, with options to unstage or revert commits
+
+-merge:
+combines multiple commit histories into one
+
+-staging files:
+prepares and organizes changes for the following commit (git commit -m)
+
