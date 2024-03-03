@@ -1,0 +1,36 @@
+# GIT VS GITHUB
+
+
+### GIT
+-It is a distributed version control system (DVCS)
+
+-Manages source code history
+
+-Access: your local system installation
+
+-Scope: local repository management
+
+-Collaboration:
+local changes, requires manual sharing
+
+-Usage:
+primarily using the command line interface
+
+
+### GITHUB
+-It is a Version Control as a Service (VCaaS)
+-It can also be called a "GIT provider"
+
+-Provides cloud storage for GIT repos
+
+-Access through a web interface, because it is a cloud service
+
+-Scope: online collaboration of remote hosting
+
+-Collaboration:
+it has integrated tools for collaboration like issues and PRs, and some other
+features
+
+-Usage:
+it has a graphical interface, and it also has its own CLI-tool, but most
+people are interacting with it via website
