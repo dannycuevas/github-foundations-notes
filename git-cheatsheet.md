@@ -35,6 +35,9 @@ git --version
 > git config --global user.name "Daniel Cuevas"
 > git config --global user.email "xxx@xxx.com"
 
+> git config --global core.editor EDITOR.name
+> git config --global core.editor emacs
+
 -Check "if" the Git username has been configured
 git config user.name
 git config user.email
